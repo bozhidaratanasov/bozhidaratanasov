@@ -1,5 +1,19 @@
 ### Welcome 👋
 
+:man_technologist: About Me:
+  - :telescope: Full-Stack Developer at Voidweb
+
+  - :seedling: 4th Year Student in Software Engineering
+
+  - :mailbox: How to reach me:<br/>
+        <a href="https://www.linkedin.com/in/bozhidar-atanasov-4a9565237/">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <br/>
+        Personal Email: bozhidar.business@gmail.com<br/>
+        Work Email: bozhidar.a@voidweb.eu
+
+
 :hammer_and_wrench: Programming languages:<br/>
   Javascript<br/>
   Python<br/>
